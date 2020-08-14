@@ -1,0 +1,30 @@
+{
+  "ingreditents": [
+    {
+      "id": 1,
+      "name": "paradajz",
+      "fat": 1,
+      "glycemic": 1,
+      "hydrates": 1,
+      "protein": 1
+    },
+    {
+      "id": 2,
+      "name": "krastavci",
+      "fat": 2,
+      "glycemic": 2,
+      "hydrates": 2,
+      "protein": 2
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "name": "paradajz",
+      "fat": 1,
+      "glycemic": 1,
+      "hydrates": 1,
+      "protein": 1
+    }
+  ]
+}
