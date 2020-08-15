@@ -29,5 +29,7 @@
   "tips": {
     "required": "* Oznacava obavezno polje"
   },
-  "search": "Pretraži"
+  "search": "Pretraži",
+  "close": "Zatvori",
+  "save": "Sacuvaj"
 }
